@@ -117,7 +117,7 @@ let dog = {id: 1, name: 'scooby', color: 'brown', age: 4};
 let olderDog = {...dog, age: dog.age + 1}
 ```
 
-This would translate to the same English, "Return a new object that contains all
+This would translate to the same English, "Return a new object that cfontains all
 the key-value pairs from `dog` copied over with the `age` key overwritten with a
 new value".
 
